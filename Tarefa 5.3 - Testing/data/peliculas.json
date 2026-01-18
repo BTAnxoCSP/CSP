@@ -1,0 +1,10 @@
+[
+    {
+        "titulo": "The Lord Of The Rings",
+        "director": "Pedro Jackson",
+        "anho": 2001,
+        "genero": "fantasia",
+        "puntuacion": null,
+        "vista": false
+    }
+]
